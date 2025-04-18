@@ -1,4 +1,4 @@
 # Lenskart-Clone
 This is my first clone
 <br>
-Try by- Krishna Chauhan GKP
+Try by- Krishna Chauhan "GKP"
